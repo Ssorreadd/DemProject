@@ -1,0 +1,96 @@
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\Project.exe.config
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\Project.exe
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\Project.pdb
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\ControlzEx.dll
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\EntityFramework.dll
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\MahApps.Metro.dll
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\MaterialDesign.dll
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\MaterialDesignColors.dll
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\ControlzEx.pdb
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\ControlzEx.xml
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\EntityFramework.xml
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\MahApps.Metro.pdb
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\MahApps.Metro.xml
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Студент.PC10\Desktop\Project\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\MainWindow.g.cs
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\App.g.cs
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\Project_Content.g.cs
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\App.baml
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\MainWindow.baml
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\Project.g.resources
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\Project.exe
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\Project.pdb
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\Register And Autorization\RegisterPage.g.cs
+C:\Users\Студент.PC10\Desktop\Project\obj\Debug\Register And Autorization\RegisterPage.baml
+C:\Users\d169\Desktop\Project\bin\Debug\Project.exe.config
+C:\Users\d169\Desktop\Project\bin\Debug\Project.exe
+C:\Users\d169\Desktop\Project\bin\Debug\Project.pdb
+C:\Users\d169\Desktop\Project\bin\Debug\ControlzEx.dll
+C:\Users\d169\Desktop\Project\bin\Debug\EntityFramework.dll
+C:\Users\d169\Desktop\Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\d169\Desktop\Project\bin\Debug\MahApps.Metro.dll
+C:\Users\d169\Desktop\Project\bin\Debug\MaterialDesign.dll
+C:\Users\d169\Desktop\Project\bin\Debug\MaterialDesignColors.dll
+C:\Users\d169\Desktop\Project\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\d169\Desktop\Project\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\d169\Desktop\Project\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\d169\Desktop\Project\bin\Debug\ControlzEx.pdb
+C:\Users\d169\Desktop\Project\bin\Debug\ControlzEx.xml
+C:\Users\d169\Desktop\Project\bin\Debug\EntityFramework.xml
+C:\Users\d169\Desktop\Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\d169\Desktop\Project\bin\Debug\MahApps.Metro.pdb
+C:\Users\d169\Desktop\Project\bin\Debug\MahApps.Metro.xml
+C:\Users\d169\Desktop\Project\bin\Debug\MaterialDesignColors.pdb
+C:\Users\d169\Desktop\Project\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\d169\Desktop\Project\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\d169\Desktop\Project\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\d169\Desktop\Project\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\d169\Desktop\Project\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\d169\Desktop\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\d169\Desktop\Project\obj\Debug\App.g.cs
+C:\Users\d169\Desktop\Project\obj\Debug\Project_Content.g.cs
+C:\Users\d169\Desktop\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\d169\Desktop\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Users\d169\Desktop\Project\obj\Debug\App.baml
+C:\Users\d169\Desktop\Project\obj\Debug\Project.g.resources
+C:\Users\d169\Desktop\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\d169\Desktop\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\d169\Desktop\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\d169\Desktop\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\d169\Desktop\Project\obj\Debug\Project.exe
+C:\Users\d169\Desktop\Project\obj\Debug\Project.pdb
+C:\Users\d169\Desktop\Project\obj\Debug\Pages\Main Page\MainPage.g.cs
+C:\Users\d169\Desktop\Project\obj\Debug\Pages\Register And Autorization\LoginPage\LoginPage.g.cs
+C:\Users\d169\Desktop\Project\obj\Debug\Pages\Register And Autorization\RegisterRunner\AlreadyRunnerPage.g.cs
+C:\Users\d169\Desktop\Project\obj\Debug\Pages\Register And Autorization\RegisterRunner\RegisterPage.g.cs
+C:\Users\d169\Desktop\Project\obj\Debug\Pages\Register And Autorization\LoginPage\LoginPage.baml
+C:\Users\d169\Desktop\Project\obj\Debug\Pages\Main Page\MainPage.baml
+C:\Users\d169\Desktop\Project\obj\Debug\Pages\Register And Autorization\RegisterRunner\AlreadyRunnerPage.baml
+C:\Users\d169\Desktop\Project\obj\Debug\Pages\Register And Autorization\RegisterRunner\RegisterPage.baml
+C:\Users\d169\Desktop\Project\obj\Debug\MainWindow.g.cs
+C:\Users\d169\Desktop\Project\obj\Debug\MainWindow.baml
+C:\Users\d169\Desktop\Project\obj\Debug\Pages\MS2016 Information\InfoPage.g.cs
+C:\Users\d169\Desktop\Project\obj\Debug\Pages\MS2016 Information\InfoPage.baml
+C:\Users\d169\Desktop\Project\obj\Debug\Pages\MS2016 Information\AboutMS2016Page.g.cs
+C:\Users\d169\Desktop\Project\obj\Debug\Pages\MS2016 Information\AboutMS2016Page.baml
+C:\Users\d169\Desktop\Project\obj\Debug\Pages\Admin Page\AdminPage.g.cs
+C:\Users\d169\Desktop\Project\obj\Debug\Pages\Admin Page\AdminPage.baml
+C:\Users\d169\Desktop\Project\obj\Debug\Pages\Admin Page\AllUsersPage.g.cs
+C:\Users\d169\Desktop\Project\obj\Debug\Pages\Admin Page\AllUsersPage.baml
